@@ -1,0 +1,27 @@
+{
+    "name": "TypeRacer Hack",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "One click and your game will be automated fast.",
+    "homepage_url": "http://aashutoshrathi.co",
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+
+    "icons": {
+      "16": "img/icon-16x16.png",
+      "32": "img/icon-32x32.png",
+      "128": "img/icon-128x128.png"
+    },
+
+    "browser_action": {
+        "default_title": "Hack It"
+    },
+
+    "permissions": [
+        "tabs",
+        "http://play.typeracer.com/"
+    ]
+}
