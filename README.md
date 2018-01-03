@@ -16,9 +16,13 @@ A simple chrome extension which on click copies and paste the text into Typerace
 
 - Click on icon when race is ready and the countdown ends.
 
-- You can change speed as here:
-
-https://github.com/aashutoshrathi/Typeracer-Hack/blob/d51002c33caaeaa0a2af2db94dffa2271639e367/typeracer.js#L2
+- You can change speed by making a change in [typeracer.js](typeracer.js) like
+```diff
++function hackIt() {
+-	speed = 100; // in wpm
++	speed = speedYouWant; // in wpm
++	inp = document.getElementsByTagName('input');
+```
 
 ## In action :movie_camera:
 
