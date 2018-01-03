@@ -18,10 +18,10 @@ A simple chrome extension which on click copies and paste the text into Typerace
 
 - You can change speed by making a change in [typeracer.js](typeracer.js) like
 ```diff
-+function hackIt() {
--	speed = 100; // in wpm
-+	speed = speedYouWant; // in wpm
-+	inp = document.getElementsByTagName('input');
++ function hackIt() {
+-	  speed = 100; // in wpm
++	  speed = speedYouWant; // in wpm
++	  inp = document.getElementsByTagName('input');
 ```
 
 ## In action :movie_camera:
@@ -31,7 +31,7 @@ Coming Soon!!
 
 ## Installation
 
- - Get it locally - 
+ - Get it locally (for developers) - 
    ```sh
    $ git clone https://github.com/aashutoshrathi/Typeracer-Hack.git
    ```
@@ -41,7 +41,11 @@ Coming Soon!!
    Download the latest version here: [Typeracer Hack 🖮](https://github.com/aashutoshrathi/Typeracer-Hack/archive/master.zip)
 
  - Go to `chrome://extensions/`.
- - Click on Load Unpacked Extension and Open/Select the folder.
+ - Just drag and drop `Typeracer-Hack.crx` to page.
+   
+   OR
+
+   Click on Load Unpacked Extension and Open/Select the folder.
  - To test it, go to [Typeracer](http://play.typeracer.com/).
 
 
