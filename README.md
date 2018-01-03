@@ -36,14 +36,14 @@ Coming Soon!!
    $ git clone https://github.com/aashutoshrathi/Typeracer-Hack.git
    ```
 
-   OR 
+   **OR** 
 
    Download the latest version here: [Typeracer Hack 🖮](https://github.com/aashutoshrathi/Typeracer-Hack/archive/master.zip)
 
  - Go to `chrome://extensions/`.
  - Just drag and drop `Typeracer-Hack.crx` to page.
    
-   OR
+   **OR**
 
    Click on Load Unpacked Extension and Open/Select the folder.
  - To test it, go to [Typeracer](http://play.typeracer.com/).
