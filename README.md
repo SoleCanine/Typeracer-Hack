@@ -54,4 +54,4 @@ Coming Soon!!
 If you can't find the button on the top of the page, make sure that Developer mode is enabled [here](https://developer.chrome.com/extensions/faq#faq-dev-01).
 
 
-<p align="center"> Made with ❤ by <a href="https://github.com/aashutoshrathi">Aashutosh Rathi</a></p>
+<p align="center"> Made from scratch and with ❤ by <a href="https://github.com/aashutoshrathi">Aashutosh Rathi</a></p>
