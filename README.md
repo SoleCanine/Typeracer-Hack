@@ -11,6 +11,15 @@ A simple chrome extension which on click copies and paste the text into Typerace
 
 #### Please note that this extension is just proof of concept and is not meant to be used to exploit the free community tool.
 
+
+## Usage
+
+- Click on icon when race is ready and the countdown ends.
+
+- You can change speed as here:
+
+https://github.com/aashutoshrathi/Typeracer-Hack/blob/d51002c33caaeaa0a2af2db94dffa2271639e367/typeracer.js#L2
+
 ## In action :movie_camera:
 
 Coming Soon!!
