@@ -1,5 +1,5 @@
 function hackIt() {
-	speed = 100; // in wpm
+	speed = 67.88; // in wpm
 	inp = document.getElementsByTagName('input');
 	x = document.getElementsByTagName('span');
 	text = "";
